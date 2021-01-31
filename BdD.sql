@@ -1,0 +1,8 @@
+CREATE TABLE Recordes (
+  idRecordes INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
+  numero INTEGER UNSIGNED NULL,
+  nome VARCHAR(255) NULL,
+  PRIMARY KEY(idRecordes)
+);
+
+

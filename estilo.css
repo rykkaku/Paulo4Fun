@@ -1,0 +1,16 @@
+
+#teste{
+  width: 679px;
+  height: 452px;
+  background-image: url(images-2-5.jpg);
+  background-repeat: repeat;
+  background-attachment: scroll;
+}
+#teste{
+  width: 679px;
+  height: 452px;
+  background-image: url(images-2-5.jpg);
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-position: bottom right;
+}
